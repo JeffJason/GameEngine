@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2015
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PolarStarEngine", "PolarStarEngine\PolarStarEngine.vcxproj", "{71A0B582-B7AA-46D0-A963-A11CFDE92539}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{71A0B582-B7AA-46D0-A963-A11CFDE92539}.Debug|x64.ActiveCfg = Debug|x64
+		{71A0B582-B7AA-46D0-A963-A11CFDE92539}.Debug|x64.Build.0 = Debug|x64
+		{71A0B582-B7AA-46D0-A963-A11CFDE92539}.Debug|x86.ActiveCfg = Debug|Win32
+		{71A0B582-B7AA-46D0-A963-A11CFDE92539}.Debug|x86.Build.0 = Debug|Win32
+		{71A0B582-B7AA-46D0-A963-A11CFDE92539}.Release|x64.ActiveCfg = Release|x64
+		{71A0B582-B7AA-46D0-A963-A11CFDE92539}.Release|x64.Build.0 = Release|x64
+		{71A0B582-B7AA-46D0-A963-A11CFDE92539}.Release|x86.ActiveCfg = Release|Win32
+		{71A0B582-B7AA-46D0-A963-A11CFDE92539}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {30410B15-5A34-4276-BCE7-8DAD9D3D9C0E}
+	EndGlobalSection
+EndGlobal

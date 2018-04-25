@@ -1,0 +1,44 @@
+﻿  PolarStarEngine.cpp
+e:\gameengine\gameengine\polarstarengine\polarstarengine\polarstarengine.cpp(414): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+e:\gameengine\gameengine\polarstarengine\polarstarengine\polarstarengine.cpp(479): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+e:\gameengine\gameengine\include\sfml\graphics\rect.inl(114): error C2589: '(': illegal token on right side of '::'
+  e:\gameengine\gameengine\include\sfml\graphics\rect.inl(110): note: while compiling class template member function 'bool sf::Rect<float>::intersects(const sf::Rect<float> &,sf::Rect<float> &) const'
+  e:\gameengine\gameengine\include\sfml\graphics\rect.inl(103): note: see reference to function template instantiation 'bool sf::Rect<float>::intersects(const sf::Rect<float> &,sf::Rect<float> &) const' being compiled
+  e:\gameengine\gameengine\include\sfml\graphics\rect.inl(28): note: while compiling class template member function 'sf::Rect<float>::Rect(void)'
+  e:\gameengine\gameengine\include\sfml\graphics\glyph.hpp(49): note: see reference to function template instantiation 'sf::Rect<float>::Rect(void)' being compiled
+  e:\gameengine\gameengine\include\sfml\graphics\shape.hpp(315): note: see reference to class template instantiation 'sf::Rect<float>' being compiled
+e:\gameengine\gameengine\include\sfml\graphics\rect.inl(114): error C2062: type 'unknown-type' unexpected
+e:\gameengine\gameengine\include\sfml\graphics\rect.inl(114): error C2059: syntax error: ')'
+e:\gameengine\gameengine\include\sfml\graphics\rect.inl(115): error C2589: '(': illegal token on right side of '::'
+e:\gameengine\gameengine\include\sfml\graphics\rect.inl(115): error C2062: type 'unknown-type' unexpected
+e:\gameengine\gameengine\include\sfml\graphics\rect.inl(115): error C2059: syntax error: ')'
+e:\gameengine\gameengine\include\sfml\graphics\rect.inl(116): error C2589: '(': illegal token on right side of '::'
+e:\gameengine\gameengine\include\sfml\graphics\rect.inl(116): error C2062: type 'unknown-type' unexpected
+e:\gameengine\gameengine\include\sfml\graphics\rect.inl(116): error C2059: syntax error: ')'
+e:\gameengine\gameengine\include\sfml\graphics\rect.inl(117): error C2589: '(': illegal token on right side of '::'
+e:\gameengine\gameengine\include\sfml\graphics\rect.inl(117): error C2062: type 'unknown-type' unexpected
+e:\gameengine\gameengine\include\sfml\graphics\rect.inl(117): error C2059: syntax error: ')'
+e:\gameengine\gameengine\include\sfml\graphics\rect.inl(120): error C2589: '(': illegal token on right side of '::'
+e:\gameengine\gameengine\include\sfml\graphics\rect.inl(120): error C2062: type 'unknown-type' unexpected
+e:\gameengine\gameengine\include\sfml\graphics\rect.inl(120): error C2059: syntax error: ')'
+e:\gameengine\gameengine\include\sfml\graphics\rect.inl(121): error C2589: '(': illegal token on right side of '::'
+e:\gameengine\gameengine\include\sfml\graphics\rect.inl(121): error C2062: type 'unknown-type' unexpected
+e:\gameengine\gameengine\include\sfml\graphics\rect.inl(121): error C2059: syntax error: ')'
+e:\gameengine\gameengine\include\sfml\graphics\rect.inl(122): error C2589: '(': illegal token on right side of '::'
+e:\gameengine\gameengine\include\sfml\graphics\rect.inl(122): error C2062: type 'unknown-type' unexpected
+e:\gameengine\gameengine\include\sfml\graphics\rect.inl(122): error C2059: syntax error: ')'
+e:\gameengine\gameengine\include\sfml\graphics\rect.inl(123): error C2589: '(': illegal token on right side of '::'
+e:\gameengine\gameengine\include\sfml\graphics\rect.inl(123): error C2062: type 'unknown-type' unexpected
+e:\gameengine\gameengine\include\sfml\graphics\rect.inl(123): error C2059: syntax error: ')'
+e:\gameengine\gameengine\include\sfml\graphics\rect.inl(126): error C2589: '(': illegal token on right side of '::'
+e:\gameengine\gameengine\include\sfml\graphics\rect.inl(126): error C2062: type 'unknown-type' unexpected
+e:\gameengine\gameengine\include\sfml\graphics\rect.inl(126): error C2059: syntax error: ')'
+e:\gameengine\gameengine\include\sfml\graphics\rect.inl(127): error C2589: '(': illegal token on right side of '::'
+e:\gameengine\gameengine\include\sfml\graphics\rect.inl(127): error C2062: type 'unknown-type' unexpected
+e:\gameengine\gameengine\include\sfml\graphics\rect.inl(127): error C2059: syntax error: ')'
+e:\gameengine\gameengine\include\sfml\graphics\rect.inl(128): error C2589: '(': illegal token on right side of '::'
+e:\gameengine\gameengine\include\sfml\graphics\rect.inl(128): error C2062: type 'unknown-type' unexpected
+e:\gameengine\gameengine\include\sfml\graphics\rect.inl(128): error C2059: syntax error: ')'
+e:\gameengine\gameengine\include\sfml\graphics\rect.inl(129): error C2589: '(': illegal token on right side of '::'
+e:\gameengine\gameengine\include\sfml\graphics\rect.inl(129): error C2062: type 'unknown-type' unexpected
+e:\gameengine\gameengine\include\sfml\graphics\rect.inl(129): error C2059: syntax error: ')'
